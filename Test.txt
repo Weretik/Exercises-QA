@@ -1,3 +1,0 @@
-Create a file in the Exercises-QA repository
-Added new text in the "Test" file
-Added more text in the "Text" file
